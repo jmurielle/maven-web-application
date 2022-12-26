@@ -93,13 +93,13 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://172.31.11.42:8081/repository/sonartest-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://172.31.11.42:8081/repository/sonartest-snapshots/</url>
 	    </snapshotRepository>
